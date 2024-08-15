@@ -1,0 +1,30 @@
+{
+  "dbname": "DB5",
+  "tables": [
+    {
+      "tablename": "Persons",
+      "columnDefinitions": {
+        "city": "varchar",
+        "name": "varchar",
+        "age": "int"
+      },
+      "rows": [
+        {
+          "city": "New York",
+          "name": "John Doe",
+          "age": "30"
+        },
+        {
+          "city": "Los Angeles",
+          "name": "Jane Smith",
+          "age": "25"
+        },
+        {
+          "city": "Chicago",
+          "name": "Emily Johnson",
+          "age": "22"
+        }
+      ]
+    }
+  ]
+}

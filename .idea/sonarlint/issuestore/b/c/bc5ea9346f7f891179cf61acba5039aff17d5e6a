@@ -1,0 +1,12 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(´ûüÿÿÿÿ8Şœ½’İ1
+L	java:S106&"+Replace this use of System.out by a logger.(Šü¾Ëÿÿÿÿÿ8àœ½’İ1
+R
+java:S2440*"0Remove this instantiation of "CaptchaGenerator".(£æÔÌÿÿÿÿÿ8àœ½’İ1
+R
+java:S2209+"5Change this instance-reference to a static reference.(‹Ú ¿8àœ½’İ1
+G	java:S106,"+Replace this use of System.out by a logger.(¶Æ½8áœ½’İ1
+L	java:S106-"+Replace this use of System.out by a logger.(Ûì€–úÿÿÿÿ8áœ½’İ1
+L	java:S1060"+Replace this use of System.out by a logger.(™†¥¡üÿÿÿÿ8âœ½’İ1
+G	java:S1064"+Replace this use of System.out by a logger.(ä……8ãœ½’İ1
+F	java:S1067"+Replace this use of System.out by a logger.(ÃÆ›u8ãœ½’İ1

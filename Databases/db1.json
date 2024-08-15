@@ -1,0 +1,60 @@
+{
+  "tables": [
+    {
+      "tablename": "clients",
+      "columnDefinitions": {
+        "name": "varchar",
+        "ht": "int",
+        "wt": "int"
+      },
+      "rows": [
+        {
+          "name": "Rishi",
+          "ht": "175",
+          "wt": "80"
+        },
+        {
+          "name": "Sankar",
+          "ht": "175",
+          "wt": "82"
+        },
+        {
+          "name": "Arjun",
+          "ht": "179",
+          "wt": "65"
+        },
+        {
+          "name": "Vicky",
+          "ht": "180",
+          "wt": "85"
+        }
+      ]
+    },
+    {
+      "tablename": "sports",
+      "columnDefinitions": {
+        "dep": "varchar",
+        "loc": "varchar"
+      },
+      "rows": [
+        {
+          "dep": "Cricket",
+          "loc": "Stadium"
+        },
+        {
+          "dep": "Football",
+          "loc": "Arena"
+        }
+      ]
+    },
+    {
+      "tablename": "Persons",
+      "columnDefinitions": {
+        "city": "varchar",
+        "name": "varchar",
+        "age": "int"
+      },
+      "rows": []
+    }
+  ]
+}

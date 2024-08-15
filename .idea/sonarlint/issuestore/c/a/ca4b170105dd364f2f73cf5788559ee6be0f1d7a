@@ -1,0 +1,33 @@
+
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Å®·“8¡…Û—Ş1
+k
+java:S1192È"HDefine a constant instead of duplicating this literal " WHERE " 3 times.(—”‰…ûÿÿÿÿ8¡…Û—Ş1
+d
+java:S1192´"FDefine a constant instead of duplicating this literal ",\\s*" 3 times.(Âœ’½8¢…Û—Ş1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(ãŞ’€8Î…Û—Ş1
+G	java:S106$"+Replace this use of System.out by a logger.(ŸàÊ8Ô…Û—Ş1
+G	java:S1065"+Replace this use of System.out by a logger.(úÂİ8Ô…Û—Ş1
+L	java:S1069"+Replace this use of System.out by a logger.(ƒŒ¼†ùÿÿÿÿ8Ô…Û—Ş1
+F	java:S106@"+Replace this use of System.out by a logger.(í‚›r8Ö…Û—Ş1
+L	java:S106Q"+Replace this use of System.out by a logger.(Ò¥—ùÿÿÿÿ8Ö…Û—Ş1
+G	java:S106S"+Replace this use of System.out by a logger.(•ô«ì8Ö…Û—Ş1
+G	java:S106["+Replace this use of System.out by a logger.(²õ¦«8×…Û—Ş1
+L	java:S106e"+Replace this use of System.out by a logger.(Ç‹˜æùÿÿÿÿ8×…Û—Ş1
+L	java:S106o"+Replace this use of System.out by a logger.(ıÙæ¢øÿÿÿÿ8Ø…Û—Ş1
+G	java:S106y"+Replace this use of System.out by a logger.(µ˜¦÷8Ù…Û—Ş1
+M	java:S106…"+Replace this use of System.out by a logger.(÷µ¿Áûÿÿÿÿ8Ù…Û—Ş1
+G	java:S106‰"+Replace this use of System.out by a logger.(¶ƒ&8Ù…Û—Ş1
+H	java:S106Œ"+Replace this use of System.out by a logger.(µÉä›8Ú…Û—Ş1
+M	java:S106‘"+Replace this use of System.out by a logger.(øñ¬Ùúÿÿÿÿ8Ú…Û—Ş1
+H	java:S106–"+Replace this use of System.out by a logger.(í•™8Ú…Û—Ş1
+H	java:S106š"+Replace this use of System.out by a logger.(ŸÁ…ù8Ú…Û—Ş1
+M	java:S106¡"+Replace this use of System.out by a logger.(Õ—‰ìûÿÿÿÿ8Û…Û—Ş1
+M	java:S106¥"+Replace this use of System.out by a logger.(ƒŒ¼†ùÿÿÿÿ8ÍÑÛ—Ş1
+f
+java:S5361¾"HReplace this call to "replaceAll()" by a call to the "replace()" method.(íóô8ß…Û—Ş1
+r
+java:S5850Î"TGroup parts of the regex together to make the intended operator precedence explicit.(ÜøœŸ8â…Û—Ş1
+w
+java:S5850Õ"TGroup parts of the regex together to make the intended operator precedence explicit.(ßæí½ıÿÿÿÿ8ã…Û—Ş1

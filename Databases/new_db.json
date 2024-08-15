@@ -1,0 +1,57 @@
+{
+  "dbname": "NEW_DB",
+  "tables": [
+    {
+      "tablename": "clients",
+      "columnDefinitions": {
+        "name": "varchar",
+        "ht": "int",
+        "wt": "int"
+      },
+      "rows": [
+        {
+          "name": "Rishi",
+          "ht": "170",
+          "wt": "72"
+        },
+        {
+          "name": "Vicky",
+          "ht": "180",
+          "wt": "85"
+        },
+        {
+          "name": "Rahul",
+          "ht": "183",
+          "wt": "90"
+        },
+        {
+          "name": "Sankar",
+          "ht": "181",
+          "wt": "93"
+        },
+        {
+          "name": "Ram",
+          "ht": "170",
+          "wt": "65"
+        }
+      ]
+    },
+    {
+      "tablename": "sports",
+      "columnDefinitions": {
+        "name": "varchar",
+        "location": "varchar"
+      },
+      "rows": [
+        {
+          "name": "Cricket ",
+          "location": "Ground"
+        },
+        {
+          "name": "Badminton",
+          "location": "Indoor"
+        }
+      ]
+    }
+  ]
+}

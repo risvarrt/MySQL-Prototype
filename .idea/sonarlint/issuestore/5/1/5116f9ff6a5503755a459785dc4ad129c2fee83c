@@ -1,0 +1,14 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡×ÕÁüÿÿÿÿ8©ß»—Ş1
+G	java:S106:"+Replace this use of System.out by a logger.(Ô• 8¿ß»—Ş1
+L	java:S106;"+Replace this use of System.out by a logger.(÷ÎÿÚøÿÿÿÿ8¿ß»—Ş1
+G	java:S106<"+Replace this use of System.out by a logger.(è·¯¯8Àß»—Ş1
+L	java:S106="+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Àß»—Ş1
+L	java:S106?"+Replace this use of System.out by a logger.(ÌöâÑıÿÿÿÿ8Áß»—Ş1
+L	java:S106@"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Áß»—Ş1
+L	java:S106B"+Replace this use of System.out by a logger.(÷ÎÿÚøÿÿÿÿ8Áß»—Ş1
+R
+java:S1751Z"5Remove this "break" statement or make it conditional.(›ûä·8Ãß»—Ş1
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8Äß»—Ş1
